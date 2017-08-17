@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>家居公司，室内设计公司-互联网网站模板|IT行业网站模板</title>
+        <meta name="renderer" content="webkit" />
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui" />
+        <meta name="generator" content="MetInfo 5.3.13" data-variable="https://show.metinfo.cn/muban/M1156008/328/,cn,115,42,3,M1156008" />
+        <meta name="description" content="室内设计有限公司是中国建筑装饰协会会员单位，揭阳市建筑装饰行业协会家装委员会副主任单位，是首批取得广州家庭装饰装修企业资格证的单位之一。“做品味装饰，创名牌企业”，正以饱满的热情和自信一路前行！&lt;br&gt;黑白颜色的搭配使整个网站显得十分高端儒雅，整体风格简洁大气，以红色作为点缀让画面显得醒目，首页还特别设计了一个视频模块，更加有效的展示公司文化" />
+        <meta name="keywords" content="互联网|网站建设|IT行业" />
+        <link href="https://show.metinfo.cn/muban/M1156008/328/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <link rel="stylesheet" href="css/metinfo.css" />
+        <!--[if IE 9]>
+            <link rel="stylesheet" href="css/metinfo-ie9-1.css">
+            <link rel="stylesheet" href="css/metinfo-ie9-2.css">
+            <link rel="stylesheet" href="css/metinfo-ie9-3.css">
+            <link rel="stylesheet" href="css/metinfo-ie9-4.css">
+        <![endif]-->
+        <!--[if lt IE 10]>
+            <script src="js/media.match.min.js"></script>
+            <script src="js/respond.min.js"></script>
+            <script src="js/classList.min.js"></script>
+        <![endif]-->
+    </head>
+    
+    <body class="active">
+        <header role="heading" class="active">
+            <div class="head-box">
+                <div class="head-top">
+                    <div class="logo-box">
+                        <a href="https://show.metinfo.cn/muban/M1156008/328/" title="互联网网站模板|IT行业网站模板">
+                            <img src="https://show.metinfo.cn/muban/M1156008/328/upload/201611/1480412957.png" title="互联网网站模板|IT行业网站模板" alt="互联网网站模板|IT行业网站模板" /></a>
+                    </div>
+                    <div class="jodo-box">
+                        <p>
+                            <img src="https://show.metinfo.cn/muban/M1156008/328/upload/201611/1422258610.jpg" alt="扫一扫微信二维码" /></p>
+                        <p>扫一扫微信二维码
+                            <em class="fa fa-mobile-phone"></em></p>
+                    </div>
+                </div>
+                <div class="nav-cut">
+                    <ul>
+                        <li class="nav1 ">
+                            <a href="index.html" title="精彩首页">精彩首页</a></li>
+                        <li class="nav1 active">
+                            <a href="product.html" title="产品中心" data-alert="全部">产品中心</a>
+                            <ul>
+                                <li class="nav2">
+                                    <a href="product.html" title="高端定制网站" data-alert="全部">高端定制网站</a>
+                                    <ul>
+                                        <li class="nav3">
+                                            <a href="product.html" title="响应式建站">响应式建站</a></li>
+                                        <li class="nav3">
+                                            <a href="product.html" title="PC端建站">PC端建站</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav2">
+                                    <a href="product.html" title="移动网站建设" data-alert="全部">移动网站建设</a>
+                                    <ul>
+                                        <li class="nav3">
+                                            <a href="product.html" title="手机端建站">手机端建站</a></li>
+                                        <li class="nav3">
+                                            <a href="product.html" title="微信端建站">微信端建站</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav2">
+                                    <a href="product.html" title="业务系统研发" data-alert="全部">业务系统研发</a></li>
+                                <li class="nav2">
+                                    <a href="product.html" title="服务器运维" data-alert="全部">服务器运维</a></li>
+                                <li class="nav2">
+                                    <a href="product.html" title="APP应用程序" data-alert="全部">APP应用程序</a></li>
+                                <li class="nav2">
+                                    <a href="product.html" title="UI 美工设计" data-alert="全部">UI 美工设计</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav1 ">
+                            <a href="news.html" title="新闻资讯" data-alert="全部">新闻资讯</a>
+                            <ul>
+                                <li class="nav2">
+                                    <a href="news.html" title="公司新闻" data-alert="全部">公司新闻</a></li>
+                                <li class="nav2">
+                                    <a href="news.html" title="行业资讯" data-alert="全部">行业资讯</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav1">
+                            <a href="about.html" title="关于我们" data-alert="全部">关于我们</a></li>
+                        <li class="nav1 ">
+                            <a href="case.html" title="案例展示" data-alert="全部">案例展示</a></li>
+                        <li class="background"></li>
+                    </ul>
+                </div>
+                <div class="head-bottom">
+                    <div class="foto-box">
+                        <div class="social-box">
+                            <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=963064741&amp;site=qq&amp;menu=yes" rel="nofollow" target="_blank">
+                                <i class="fa fa-qq"></i>
+                            </a>
+                            <a href="" rel="nofollow" target="_blank">
+                                <i class="fa fa-weibo"></i>
+                            </a>
+                            <a id="met-weixin">
+                                <i class="fa fa-weixin"></i>
+                            </a>
+                            <div id="met-weixin-content" class="hide">
+                                <div class="text-center met-weixin-img">
+                                    <img src="https://show.metinfo.cn/muban/M1156008/328/upload/201611/1422258610.jpg" /></div>
+                            </div>
+                        </div>
+                        <div class="foto-cut">高端定制，品牌设计</div>
+                        <div class="powered_by_metinfo">Powered by
+                            <a href="http://www.MetInfo.cn/#copyright" target="_blank" title="企业网站管理系统">MetInfo</a>5.3.13</div></div>
+                </div>
+            </div>
+        </header>
+        <section role="main" class="subpage active">
+            <div class="main-box">
+                <div class="banner-content">
+                    <div class="banner-click">
+                        <i class="fa fa-arrows-alt"></i>
+                    </div>
+                    <div class="met-banner " data-height="450|350|250">
+                        <div class="slick-slide">
+                            <img class="cover-image" src="https://show.metinfo.cn/muban/M1156008/328/upload/201612/1481290045.jpg" srcset="../include/thumb.php?dir=https://show.metinfo.cn/muban/M1156008/328/upload/201612/1481290045.jpg&amp;x=500 767w,https://show.metinfo.cn/muban/M1156008/328/upload/201612/1481290045.jpg 991w" alt="家居公司，室内设计公司" /></div>
+                    </div>
+                </div>
+                <div class="sidebar-header ">
+                    <div class="sidebar-icon active">
+                        <i class="fa fa-arrow-left"></i>
+                        <i class="fa fa-th-list"></i>
+                    </div>
+                    <div class="sidebar-nav">
+                        <ol>全部</ol>
+                        <ul>
+                            <li class="">
+                                <a href="../product/" title="全部">全部</a></li>
+                            <li class="active">
+                                <a href="../product/product.php?lang=cn&amp;class2=105" title="高端定制网站">高端定制网站
+                                    <span class="caret"></span></a>
+                                <ul>
+                                    <li class="one">
+                                        <a href="../product/product.php?lang=cn&amp;class2=105" title="全部">全部</a></li>
+                                    <li>
+                                        <a href="../product/product.php?lang=cn&amp;class3=115" class="active" title="响应式建站">响应式建站</a></li>
+                                    <li>
+                                        <a href="../product/product.php?lang=cn&amp;class3=116" title="PC端建站">PC端建站</a></li>
+                                </ul>
+                            </li>
+                            <li class="">
+                                <a href="../product/product.php?lang=cn&amp;class2=106" title="移动网站建设">移动网站建设
+                                    <span class="caret"></span></a>
+                                <ul>
+                                    <li class="one">
+                                        <a href="../product/product.php?lang=cn&amp;class2=106" title="全部">全部</a></li>
+                                    <li>
+                                        <a href="../product/product.php?lang=cn&amp;class3=133" title="手机端建站">手机端建站</a></li>
+                                    <li>
+                                        <a href="../product/product.php?lang=cn&amp;class3=134" title="微信端建站">微信端建站</a></li>
+                                </ul>
+                            </li>
+                            <li class="">
+                                <a href="../product/product.php?lang=cn&amp;class2=107" title="业务系统研发" class="">业务系统研发</a></li>
+                            <li class="">
+                                <a href="../product/product.php?lang=cn&amp;class2=108" title="服务器运维" class="">服务器运维</a></li>
+                            <li class="">
+                                <a href="../product/product.php?lang=cn&amp;class2=131" title="APP应用程序" class="">APP应用程序</a></li>
+                            <li class="">
+                                <a href="../product/product.php?lang=cn&amp;class2=132" title="UI 美工设计" class="">UI 美工设计</a></li>
+                        </ul>
+                    </div>
+                    <div class="sidebar-search">
+                        <form method="get" action="search.html">
+                            <input type="hidden" name="lang" value="cn" />
+                            <input type="hidden" name="class1" value="101" />
+                            <input type="search" name="searchword" class="searchword" placeholder="search" />
+                            <input type="submit" class="hidden" value=" " />
+                            <i class="fa fa-search"></i>
+                        </form>
+                    </div>
+                </div>
+                <div class="product-title">项目介绍</div>
+                <div class="product-descript">
+                    <h3>家居公司，室内设计公司</h3>
+                    <font>阅读
+                        <i class="fa fa-eye"></i>5500 &nbsp;&middot;&nbsp; 发布日期
+                        <i class="fa fa-clock-o"></i>2016-12-10 08:41:54</font>
+                    <p>室内设计有限公司是中国建筑装饰协会会员单位，揭阳市建筑装饰行业协会家装委员会副主任单位，是首批取得广州家庭装饰装修企业资格证的单位之一。“做品味装饰，创名牌企业”，正以饱满的热情和自信一路前行！
+                        <br />黑白颜色的搭配使整个网站显得十分高端儒雅，整体风格简洁大气，以红色作为点缀让画面显得醒目，首页还特别设计了一个视频模块，更加有效的展示公司文化</p>
+                    <span>
+                        <b>标签</b>
+                        <i class="fa fa-tag"></i>
+                        <a href="search.html?searchword=高端儒雅" title="高端儒雅">高端儒雅</a>
+                        <a href="search.html?searchword=红色点缀" title="红色点缀">红色点缀</a>
+                        <a href="search.html?searchword=视频展示" title="视频展示">视频展示</a>
+                        <a href="search.html?searchword=文化" title="文化">文化</a></span>
+                </div>
+                <div class="product-title">详细信息</div>
+                <div class="product-content">
+                    <div>
+                        <p style="text-align: center;">
+                            <img style="height:200px;" class="imgload" data-original="http://www.metinfo.cn/upload/201607/1469435030299169.png" alt="图片关键词" /></p>
+                        <div id="metinfo_additional"></div>
+                        <br />
+                        <span class="hidden">标签:&nbsp;&nbsp;
+                            <a href="search.html" target="_blank" title="链接关键词"></a>&nbsp;
+                            <a href="search.html" target="_blank" title="链接关键词">高端儒雅</a>&nbsp;
+                            <a href="search.html" target="_blank" title="链接关键词">红色点缀</a>&nbsp;
+                            <a href="search.html" target="_blank" title="链接关键词">视频展示</a>&nbsp;
+                            <a href="search.html" target="_blank" title="链接关键词">文化</a></span>
+                    </div>
+                </div>
+                <div class="page-main">
+                    <ul class="pager pager-round">
+                        <li class="previous disabled">
+                            <a href="#" title="没有了">上一篇
+                                <span aria-hidden="true" class="hidden-xs">：没有了</span></a>
+                        </li>
+                        <li class="next ">
+                            <a href="showproduct.php?lang=cn&amp;id=46" title="科技公司网站模板|科技企业网站">下一篇
+                                <span aria-hidden="true" class="hidden-xs">：科技公司网站模板|科技企业网站</span></a>
+                        </li>
+                    </ul>
+                </div>
+                <button type="button" class="btn btn-icon btn-primary btn-squared met-scroll-top hide">
+                    <i class="icon wb-chevron-up" aria-hidden="true"></i>
+                </button>
+                <script src="js/metinfo.js"></script>
+            </div>
+            <footer>
+                <p>互联网 版权所有 2008-2016 粤ICP备0123456789-1</p>
+            </footer>
+        </section>
+    </body>
+
+</html>
